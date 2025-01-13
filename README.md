@@ -1,6 +1,6 @@
 # Algorithms and Problem Solving in C++ - Level 3
 
-This repository contains 51 algorithmic problems implemented in C++ that range from basic to advanced levels. The problems are designed to improve problem-solving skills, algorithmic thinking, and proficiency in C++ programming.
+This repository contains 51 algorithmic problems implemented in C++, ranging from easy to hard levels. Each problem includes **two solutions** to provide alternative approaches and improve problem-solving skills, algorithmic thinking, and proficiency in C++ programming.
 
 ## Features:
 - 51 algorithmic problems categorized into easy, medium, and hard levels.
@@ -18,7 +18,7 @@ This repository contains 51 algorithmic problems implemented in C++ that range f
 
 # الخوارزميات وحل المشكلات في C++ - المستوى 3
 
-يحتوي هذا المستودع على 51 مشكلة خوارزمية تم تنفيذها بلغة C++، تتراوح من المستوى السهل إلى المتقدم. تم تصميم هذه المشكلات لتحسين مهارات حل المشكلات، والتفكير الخوارزمي، والكفاءة في البرمجة باستخدام C++.
+يحتوي هذا المستودع على 51 مشكلة خوارزمية تم تنفيذها بلغة C++، تتراوح من السهل إلى الصعب. لكل مشكلة **حلّان** يوضحان طرقًا مختلفة لحل المشكلة نفسها، مما يعزز مهارات حل المشكلات والتفكير الخوارزمي والكفاءة في البرمجة باستخدام C++.
 
 ## المميزات:
 - 51 مشكلة خوارزمية مقسمة إلى مستويات سهل، متوسط، وصعب.
